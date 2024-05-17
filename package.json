@@ -1,0 +1,12 @@
+{
+  "name": "fs-module-nodejs",
+  "version": "1.0.0",
+  "description": "file system in nodejs basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "lakshmi",
+  "license": "ISC"
+}
